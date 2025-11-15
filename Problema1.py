@@ -81,7 +81,7 @@ def resolver_laberinto():
     columna_inicio = 0
     fila_final = 0
     columna_final = 8
-    energia_inicial = 50
+    energia_inicial = 18
     
     print("LABERINTO ORIGINAL:")
     mostrar_laberinto(laberinto)
